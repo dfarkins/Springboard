@@ -1,0 +1,8 @@
+git add filename.txt
+
+git status
+
+git commit -m "commit message"
+
+git push origin master
+
